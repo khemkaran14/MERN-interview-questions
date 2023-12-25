@@ -1,2 +1,2 @@
 # MERN-interview-questions
-MERT developers interview questions
+MERN developers interview questions
