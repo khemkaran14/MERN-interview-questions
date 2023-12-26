@@ -5,43 +5,11 @@
 
 ### Table of Contents
 
-| No. | Questions
+| No. | Questions                                                                                                                                                     |
+| --- | --------------------------------------------------------------------------------- |
 | 1   | [First question](#first-question)
-| 2   | [Second question](#second-question)                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 2   | [Second question](#second-question)                                                                                                       |
+                                                       
 
 1. ### First question
 	Answer of first question
